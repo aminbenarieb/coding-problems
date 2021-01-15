@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "15a83ef898a55caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "184d711fc26198c0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "706-24-game.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "760c47554ad849f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7adb3cda130bd676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7a5feca4a64e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96d524e3d15f0207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0835c145905035df",
+    "type": "split",
+    "children": [
+      {
+        "id": "9960cdfdc2312daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2282d4c0d2a756d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "706-24-game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "706-24-game.md"
+  ]
+}
