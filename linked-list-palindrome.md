@@ -1,6 +1,6 @@
-# 715
+Linked List is Palindrome
 ### Question :
-Determine whether a doubly linked list is a palindrome. What if it’s singly linked?
+Determine whether a doubly [[linked list]] is a [[palindrome]]. What if it’s singly linked?
 
 For example, `1 -> 4 -> 3 -> 4 -> 1` returns `True` while `1 -> 4` returns `False`.
 
@@ -20,6 +20,6 @@ def is_palindrome(node):
     return all(x == y for x, y in zip(values, values_reversed))
 ```
 
-#google
+#easy #google
 
 
