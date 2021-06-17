@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "reverse-integer.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#palindrome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "reverse-integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "184d711fc26198c0",
   "lastOpenFiles": [
-    "README.md",
-    "statistic.md",
-    "24-game.md",
-    "Untitled.md",
     "reverse-integer.md",
+    "statistic.md",
     "roman-to-integer.md",
-    "palindrome-number.md",
-    "linked-list-palindrome.md",
     "alphabetical-column-id.md",
-    "706-24-game.md"
+    "inbox.md",
+    "linked-list-palindrome.md",
+    "palindrome-number.md",
+    "24-game.md",
+    "README.md",
+    "Untitled.md"
   ]
 }
