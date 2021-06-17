@@ -55,5 +55,8 @@ class Solution:
         return result
 ```
 
+Time Complexity: $$\Theta(\log_{10} n))$$
+Space Complexity:  $$\Theta(1)$$
+
 #overflow #stack #easy 
 

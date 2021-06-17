@@ -37,6 +37,9 @@ def encode(n):
     return s
 ```
 
+Time Complexity: $$\Theta(n))$$
+Space Complexity:  $$\Theta(1)$$
+
 #easy #dropbox
 
 

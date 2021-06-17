@@ -86,4 +86,7 @@ class Solution:
         return x == reversed_x or x == int(reversed_x / 10)
 ```
 
+Time Complexity: $$\Theta(\log_{10} n))$$
+Space Complexity:  $$\Theta(1)$$
+
 #easy

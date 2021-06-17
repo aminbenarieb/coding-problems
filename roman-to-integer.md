@@ -74,4 +74,7 @@ class Solution(object):
         return num
 ```
 
+Time Complexity: $$\Theta(n))$$
+Space Complexity:  $$\Theta(1)$$
+
 #math #easy

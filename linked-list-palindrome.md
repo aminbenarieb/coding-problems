@@ -20,6 +20,9 @@ def is_palindrome(node):
     return all(x == y for x, y in zip(values, values_reversed))
 ```
 
+Time Complexity: $$\Theta(\n))$$
+Space Complexity:  $$\Theta(n)$$
+
 #easy #google  
 
 
