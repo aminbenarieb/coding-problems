@@ -20,6 +20,6 @@ def is_palindrome(node):
     return all(x == y for x, y in zip(values, values_reversed))
 ```
 
-#easy #google
+#easy #google #palindrome 
 
 

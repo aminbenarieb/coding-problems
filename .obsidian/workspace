@@ -6,11 +6,10 @@
       {
         "id": "184d711fc26198c0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "706-24-game.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -69,23 +68,43 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "706-24-game.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b8cc96aa64aeccc8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+  "active": "184d711fc26198c0",
   "lastOpenFiles": [
+    "README.md",
+    "statistic.md",
+    "24-game.md",
+    "Untitled.md",
+    "reverse-integer.md",
+    "roman-to-integer.md",
+    "palindrome-number.md",
+    "linked-list-palindrome.md",
+    "alphabetical-column-id.md",
     "706-24-game.md"
   ]
 }
