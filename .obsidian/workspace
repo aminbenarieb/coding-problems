@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linked-list-palindrome.md",
+            "file": "longest-common-prefix.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linked-list-palindrome.md",
+                "file": "longest-common-prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "184d711fc26198c0",
   "lastOpenFiles": [
+    "longest-common-prefix.md",
     "linked-list-palindrome.md",
+    "inbox.md",
     "alphabetical-column-id.md",
     "maximum-sum-contiguous-subarray.md",
-    "palindrome-number.md",
-    "reverse-integer.md",
     "statistic.md",
+    "valid-parentheses.md",
+    "palindrome-number.md",
     "smallest-contiguous-subarray-with-a-given-sum.md",
-    "roman-to-integer.md",
-    "README.md",
-    "inbox.md"
+    "reverse-integer.md"
   ]
 }

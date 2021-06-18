@@ -19,6 +19,8 @@ Input: [2, 3, 4, 1, 5], k=2 Output: 7Explanation: Subarray with maxim
 
 ### Solution
 
+[[sliding-window]]
+
 ```python
 def max_sub_array_of_size_k(k, arr):
   max_sum , window_sum = 0, 0
@@ -44,4 +46,4 @@ main()
 Time Complexity: $$\Theta(n)$$
 Space Complexity:  $$\Theta(1)$$
 
-#sliding-window #easy
+#easy
