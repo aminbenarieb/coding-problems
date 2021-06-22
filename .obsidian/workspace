@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "longest-common-prefix.md",
+            "file": "merge-two-sorted-lists.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longest-common-prefix.md",
+                "file": "merge-two-sorted-lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "184d711fc26198c0",
   "lastOpenFiles": [
+    "merge-two-sorted-lists.md",
+    "statistic.md",
     "longest-common-prefix.md",
     "linked-list-palindrome.md",
     "inbox.md",
     "alphabetical-column-id.md",
     "maximum-sum-contiguous-subarray.md",
-    "statistic.md",
     "valid-parentheses.md",
     "palindrome-number.md",
-    "smallest-contiguous-subarray-with-a-given-sum.md",
-    "reverse-integer.md"
+    "smallest-contiguous-subarray-with-a-given-sum.md"
   ]
 }

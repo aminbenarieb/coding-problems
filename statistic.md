@@ -11,3 +11,4 @@
 | [[reverse-integer]]                               | https://leetcode.com/problems/reverse-integer/submissions/                 | easy  | done   | 16.6.2021   |
 | [[palindrome-number]]                             | https://leetcode.com/problems/palindrome-number/                           | easy  | done   | 17.6.2021   |
 | [[valid-parentheses]]                             | https://leetcode.com/problems/valid-parentheses/                           | easy  | done   | 18.6.2021   |
+| [[merge-two-sorted-lists]]  |  https://leetcode.com/problems/merge-two-sorted-lists/   |  easy      |     undone        | 21.06.2021 |
