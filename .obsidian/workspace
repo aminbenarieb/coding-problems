@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "merge-two-sorted-lists.md",
-            "mode": "source"
+            "file": "statistic.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "merge-two-sorted-lists.md",
+                "file": "statistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "184d711fc26198c0",
   "lastOpenFiles": [
-    "merge-two-sorted-lists.md",
     "statistic.md",
+    "merge-two-sorted-lists.md",
     "longest-common-prefix.md",
     "linked-list-palindrome.md",
     "inbox.md",
