@@ -57,3 +57,5 @@ class Solution:
 
 Time Complexity: $$\Theta(\m+n))$$
 Space Complexity:  $$\Theta(1)$$
+
+#easy 

@@ -22,6 +22,7 @@ Input: [3, 4, 1, 1, 6], S=8 Output: 3Explanation: Smallest subarrays 
 ```
 
 ### Solution
+[[sliding-window]]
 
 ```python
 def smallest_subarray_with_given_sum(s, arr):
@@ -54,4 +55,4 @@ main()
 Time Complexity: $$\Theta(n)$$
 Space Complexity:  $$\Theta(1)$$
 
-#sliding-window #easy
+#easy

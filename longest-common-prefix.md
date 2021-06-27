@@ -41,3 +41,4 @@ class Solution(object):
         return left[0:count]
 ```
 
+#easy 

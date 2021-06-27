@@ -32,6 +32,8 @@ Given a signed 32-bit integer `x`, return `x` _with its digits reversed_. If rev
 
 ### Solution
 
+[[overflow]] [[stack]]
+
 ```python
 
 from math import pow
@@ -58,5 +60,5 @@ class Solution:
 Time Complexity: $$\Theta(\log_{10} n))$$
 Space Complexity:  $$\Theta(1)$$
 
-#overflow #stack #easy 
+#easy 
 

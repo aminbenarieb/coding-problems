@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "184d711fc26198c0",
+        "id": "0a91c9e6386dcb8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "statistic.md",
-            "mode": "preview"
+            "file": "longest-common-prefix.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistic.md",
+                "file": "longest-common-prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "184d711fc26198c0",
+  "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
-    "statistic.md",
-    "merge-two-sorted-lists.md",
     "longest-common-prefix.md",
-    "linked-list-palindrome.md",
-    "inbox.md",
+    "24-game.md",
     "alphabetical-column-id.md",
+    "inbox.md",
+    "linked-list-palindrome.md",
     "maximum-sum-contiguous-subarray.md",
-    "valid-parentheses.md",
+    "merge-two-sorted-lists.md",
     "palindrome-number.md",
-    "smallest-contiguous-subarray-with-a-given-sum.md"
+    "remove-duplicates-from-sorted-array.md",
+    "remove-rlement.md"
   ]
 }
