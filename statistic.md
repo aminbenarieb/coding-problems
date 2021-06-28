@@ -12,5 +12,6 @@
 | [[palindrome-number]]                             | https://leetcode.com/problems/palindrome-number/                           | easy  | done   | 17.6.2021   |
 | [[valid-parentheses]]                             | https://leetcode.com/problems/valid-parentheses/                           | easy  | done   | 18.6.2021   |
 | [[merge-two-sorted-lists]]                        | https://leetcode.com/problems/merge-two-sorted-lists/                      | easy  | done   | 25.06.2021  |
-| [[remove-duplicates-from-sorted-array]]           | https://leetcode.com/problems/remove-duplicates-from-sorted-array/         | easy  | done | 26.06.2021  |
-| [[remove-rlement]]                                                  | https://leetcode.com/problems/remove-element                                                                           |   easy    |   done     |    26.06.2021         |
+| [[remove-duplicates-from-sorted-array]]           | https://leetcode.com/problems/remove-duplicates-from-sorted-array/         | easy  | done   | 26.06.2021  |
+| [[remove-rlement]]                                | https://leetcode.com/problems/remove-element                               | easy  | done   | 26.06.2021  |
+| [[longest-substring-with-k-distinct-characters]]                                                  |  https://www.dailycodingproblem.com/                                                                            |  medium     |   done     |   27.06.2021         |
