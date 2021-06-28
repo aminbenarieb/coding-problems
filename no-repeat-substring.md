@@ -2,7 +2,7 @@ No-repeat Substring
 
 
 ### Solution
-
+[[sliding-window]]
 ```python
 # def non_repeat_substring(str1):
 #   window_start = 0
@@ -39,3 +39,5 @@ def non_repeat_substring(str1):
 
 Time Complexity: $$\Theta(N)$$ 
 Space Complexity:  $$\Theta(K)$$  K is number of distinct characters, K <= N. For fixed number of set the compexity would be O(1).
+
+#hard
