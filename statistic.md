@@ -19,4 +19,5 @@
 | [[no-repeat-substring]]                                    | https://www.educative.io/courses/grokking-the-coding-interview/YMzBx1gE5EO | hard   | done   | 27.06.2021  |
 | [[longest-substring-with-same-letters-after-replacement ]] | https://www.educative.io/courses/grokking-the-coding-interview/R8DVgjq78yR | hard   | done   | 27.06.2021  |
 | [[longest-subarray-with-ones-after-replacement]]           | https://www.educative.io/courses/grokking-the-coding-interview/B6VypRxPolJ | hard   | done   | 27.06.2021  |
-| [[permutation-in-a-string]]                                                           | https://www.educative.io/courses/grokking-the-coding-interview/N8vB7OVYo2D                                                                           |  hard      | done       |    27.06.2021          |
+| [[permutation-in-a-string]]                                | https://www.educative.io/courses/grokking-the-coding-interview/N8vB7OVYo2D | hard   | done   | 27.06.2021  |
+| [[string-anagrams]]                                                           |  https://www.educative.io/courses/grokking-the-coding-interview/YQ8N2OZq0VM                                                                          |   hard     |   done     | 27.06.2021            |

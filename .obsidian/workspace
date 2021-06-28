@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
-            "mode": "preview"
+            "file": "statistic.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0835c145905035df",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "statistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
-    "inbox.md",
     "statistic.md",
     "permutation-in-a-string.md",
+    "string-anagrams.md",
+    "inbox.md",
     "longest-subarray-with-ones-after-replacement.md",
     "valid-parentheses.md",
     "fruits-into-baskets.md",
     "no-repeat-substring.md",
     "longest-substring-with-k-distinct-characters.md",
-    "longest-substring-with-same-letters-after-replacement.md",
-    "remove-duplicates-from-sorted-array.md"
+    "longest-substring-with-same-letters-after-replacement.md"
   ]
 }
