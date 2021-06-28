@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "remove-duplicates-from-sorted-array.md",
+            "file": "no-repeat-substring.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remove-duplicates-from-sorted-array.md",
+                "file": "no-repeat-substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
+    "no-repeat-substring.md",
+    "statistic.md",
+    "fruits-into-baskets.md",
+    "longest-substring-with-k-distinct-characters.md",
+    "valid-parentheses.md",
     "remove-duplicates-from-sorted-array.md",
     "palindrome-number.md",
-    "longest-substring-with-k-distinct-characters.md",
-    "statistic.md",
     "longest-common-prefix.md",
     "24-game.md",
-    "alphabetical-column-id.md",
-    "inbox.md",
-    "linked-list-palindrome.md",
-    "maximum-sum-contiguous-subarray.md"
+    "alphabetical-column-id.md"
   ]
 }
