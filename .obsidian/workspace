@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
-            "mode": "preview"
+            "file": "two-sum.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
+    "two-sum.md",
+    "statistic.md",
     "inbox.md",
     "README.md",
     "roman-to-integer.md",
     "valid-parentheses.md",
     "string-anagrams.md",
-    "statistic.md",
     "linked-list-palindrome.md",
     "linked-list-is-palindrome.md",
-    "palindrome-number.md",
-    "24-game.md"
+    "palindrome-number.md"
   ]
 }
