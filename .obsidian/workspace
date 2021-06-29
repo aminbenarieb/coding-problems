@@ -7,8 +7,11 @@
         "id": "0a91c9e6386dcb8c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "inbox.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
-    "statistic.md",
+    "inbox.md",
+    "README.md",
+    "roman-to-integer.md",
     "valid-parentheses.md",
-    "linked-list-palindrome.md",
     "string-anagrams.md",
+    "statistic.md",
+    "linked-list-palindrome.md",
     "linked-list-is-palindrome.md",
     "palindrome-number.md",
-    "roman-to-integer.md",
-    "24-game.md",
-    "alphabetical-column-id.md",
-    "aphabetical-column-id.md"
+    "24-game.md"
   ]
 }
