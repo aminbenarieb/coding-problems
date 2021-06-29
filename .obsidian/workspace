@@ -7,11 +7,8 @@
         "id": "0a91c9e6386dcb8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "statistic.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,20 +89,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
     "statistic.md",
-    "permutation-in-a-string.md",
-    "string-anagrams.md",
-    "inbox.md",
-    "longest-subarray-with-ones-after-replacement.md",
     "valid-parentheses.md",
-    "fruits-into-baskets.md",
-    "no-repeat-substring.md",
-    "longest-substring-with-k-distinct-characters.md",
-    "longest-substring-with-same-letters-after-replacement.md"
+    "linked-list-palindrome.md",
+    "string-anagrams.md",
+    "linked-list-is-palindrome.md",
+    "palindrome-number.md",
+    "roman-to-integer.md",
+    "24-game.md",
+    "alphabetical-column-id.md",
+    "aphabetical-column-id.md"
   ]
 }
