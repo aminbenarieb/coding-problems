@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "merge-intervals.md",
+            "file": "missing-number.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0835c145905035df",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "merge-intervals.md",
+                "file": "missing-number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
-    "merge-intervals.md",
+    "missing-number.md",
     "statistic.md",
     "linked-list-cycle-ii.md",
+    "merge-intervals.md",
     "linked-list-cycle.md",
     "inbox.md",
     "valid-parentheses.md",
     "two-sum.md",
     "README.md",
-    "roman-to-integer.md",
-    "string-anagrams.md"
+    "roman-to-integer.md"
   ]
 }

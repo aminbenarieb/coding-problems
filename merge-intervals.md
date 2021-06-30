@@ -30,3 +30,5 @@ class Solution:
 
 Time Complexity: $$\Theta(NlogN)$$
 Space Complexity:  $$\Theta(N)$$
+
+#medium 
