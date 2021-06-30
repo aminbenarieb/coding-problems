@@ -30,4 +30,6 @@
 | [[reverse-linked-list]]                                    | https://leetcode.com/problems/reverse-linked-list/                         | easy   | done      | 30.06.2021  |
 | [[find-the-duplicate-number]]                              | https://leetcode.com/problems/find-the-duplicate-number/                   | medium | done      | 30.06.2021  |
 | [[valid-anagram]]                                          | https://leetcode.com/problems/valid-anagram/                               | easy   | done      | 30.06.2021  |
-| [[binary-search]]                                                          | https://leetcode.com/problems/binary-search/                                                                           |  easy      |  done         |  30.06.2021            |
+| [[binary-search]]                                          | https://leetcode.com/problems/binary-search/                               | easy   | done      | 30.06.2021  |
+| [find-all-anagrams-in-a-string](string-anagrams)           | https://leetcode.com/problems/find-all-anagrams-in-a-string/               | medium | done      | 01.07.2021  |
+| [[single-number]]                                                           | https://leetcode.com/problems/single-number/                                                                           | easy       |  done         | 01.07.2021            |
