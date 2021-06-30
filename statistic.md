@@ -25,3 +25,4 @@
 | [[words-concatenation]]                                    | https://www.educative.io/courses/grokking-the-coding-interview/N8nMBvDQJ0m | hard   | attempted | 29.06.2021  |
 | [[linked-list-cycle]]                                      | https://leetcode.com/problems/linked-list-cycle/                           | easy   | done      | 29.06.2021  |
 | [[linked-list-cycle-ii]]                                   | https://leetcode.com/problems/linked-list-cycle-ii/                        | medium | done      | 29.06.2021  |
+| [[merge-intervals]]                                                           |  https://leetcode.com/problems/merge-intervals/                                                                          |    medium    |   done        | 30.06.2021            |

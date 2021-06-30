@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "statistic.md",
+            "file": "merge-intervals.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistic.md",
+                "file": "merge-intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
+    "merge-intervals.md",
     "statistic.md",
-    "linked-list-cycle.md",
     "linked-list-cycle-ii.md",
+    "linked-list-cycle.md",
     "inbox.md",
     "valid-parentheses.md",
     "two-sum.md",
     "README.md",
     "roman-to-integer.md",
-    "string-anagrams.md",
-    "linked-list-palindrome.md"
+    "string-anagrams.md"
   ]
 }
