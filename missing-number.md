@@ -47,8 +47,8 @@ Missing Number
 # Gauss' sum
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n = len(nums) + 1
-        gaus_sum = n*(n - 1) // 2
+        n = len(nums)
+        gaus_sum = n*(n + 1) // 2
         total = sum(nums)
         return gaus_sum - total
 ```

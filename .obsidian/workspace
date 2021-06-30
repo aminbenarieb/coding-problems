@@ -6,10 +6,23 @@
       {
         "id": "0a91c9e6386dcb8c",
         "type": "leaf",
+        "dimension": 72.6027397260274,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "missing-number.md",
+            "file": "inbox.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ba0b01160af025fe",
+        "type": "leaf",
+        "dimension": 27.397260273972602,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "valid-anagram.md",
             "mode": "source"
           }
         }
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "missing-number.md",
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +111,15 @@
   },
   "active": "0a91c9e6386dcb8c",
   "lastOpenFiles": [
-    "missing-number.md",
+    "inbox.md",
+    "binary-search.md",
     "statistic.md",
+    "valid-anagram.md",
+    "reverse-linked-list.md",
+    "missing-number.md",
     "linked-list-cycle-ii.md",
     "merge-intervals.md",
     "linked-list-cycle.md",
-    "inbox.md",
-    "valid-parentheses.md",
-    "two-sum.md",
-    "README.md",
-    "roman-to-integer.md"
+    "valid-parentheses.md"
   ]
 }

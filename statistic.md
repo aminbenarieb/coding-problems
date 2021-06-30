@@ -26,4 +26,8 @@
 | [[linked-list-cycle]]                                      | https://leetcode.com/problems/linked-list-cycle/                           | easy   | done      | 29.06.2021  |
 | [[linked-list-cycle-ii]]                                   | https://leetcode.com/problems/linked-list-cycle-ii/                        | medium | done      | 29.06.2021  |
 | [[merge-intervals]]                                        | https://leetcode.com/problems/merge-intervals/                             | medium | done      | 30.06.2021  |
-| [[missing-number]]                                                           | https://leetcode.com/problems/missing-number/                                                                           |  easy      |  done         |  30.06.2021           |
+| [[missing-number]]                                         | https://leetcode.com/problems/missing-number/                              | easy   | done      | 30.06.2021  |
+| [[reverse-linked-list]]                                    | https://leetcode.com/problems/reverse-linked-list/                         | easy   | done      | 30.06.2021  |
+| [[find-the-duplicate-number]]                              | https://leetcode.com/problems/find-the-duplicate-number/                   | medium | done      | 30.06.2021  |
+| [[valid-anagram]]                                          | https://leetcode.com/problems/valid-anagram/                               | easy   | done      | 30.06.2021  |
+| [[binary-search]]                                                          | https://leetcode.com/problems/binary-search/                                                                           |  easy      |  done         |  30.06.2021            |
