@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0a91c9e6386dcb8c",
+        "id": "1953bdbd25d4f77c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#palindrome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0835c145905035df",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0a91c9e6386dcb8c",
+  "active": "1953bdbd25d4f77c",
   "lastOpenFiles": [
     "statistic.md",
-    "string-anagrams.md",
+    "linked-list-palindrome.md",
+    "alphabetical-column-id.md",
+    "smallest-contiguous-subarray-with-a-given-sum.md",
+    "smallest-window-containing-substring.md",
+    "smallest-window-ccontaining-substring.md",
     "find-all-anagrams-in-a-string.md",
-    "inbox.md",
-    "binary-search.md",
-    "valid-anagram.md",
-    "reverse-linked-list.md",
+    "words-concatenation.md",
     "missing-number.md",
-    "linked-list-cycle-ii.md",
-    "merge-intervals.md"
+    "reverse-linked-list.md"
   ]
 }

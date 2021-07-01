@@ -4,3 +4,4 @@
 
 - [Statistic](statistic.md)
 - [Inbox](inbox.md)
+- [[Big-O Notation]]
