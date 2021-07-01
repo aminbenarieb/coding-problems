@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "9f536f0a8c7474cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "find-the-duplicate-number.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistic.md",
+                "file": "find-the-duplicate-number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1953bdbd25d4f77c",
+  "active": "9f536f0a8c7474cd",
   "lastOpenFiles": [
+    "find-the-duplicate-number.md",
     "statistic.md",
+    "single-number.md",
     "linked-list-palindrome.md",
     "alphabetical-column-id.md",
     "smallest-contiguous-subarray-with-a-given-sum.md",
     "smallest-window-containing-substring.md",
     "smallest-window-ccontaining-substring.md",
     "find-all-anagrams-in-a-string.md",
-    "words-concatenation.md",
-    "missing-number.md",
-    "reverse-linked-list.md"
+    "words-concatenation.md"
   ]
 }
