@@ -20,7 +20,23 @@ def longest_substring_with_k_distinct(str1, k):
       window_start += 1
     res = max(res, window_end - window_start + 1)
   return res
-
+  
+from collections import Counter
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        hash_map = Counter()
+        start, max_repeating_count = 0, 0
+        for end, end_c in enumerate(s):
+            hash_map[end_c] += 1
+            
+            max_repeating_count = max(max_repeating_count, hash_map[end_c])
+            
+            if end - start + 1 - max_repeating_count > k:
+                hash_map[s[start]] -= 1
+                start += 1
+            
+        return end - start + 1
+  
 ```
 
 

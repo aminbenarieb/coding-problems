@@ -1,4 +1,4 @@
-# Longest Substring with Same Letters after Replacement
+Longest Substring with Same Letters after Replacement
 
 ### Solution
 [[sliding-window]]
@@ -18,10 +18,26 @@ def length_of_longest_substring(str, k):
     window_len = window_end - window_start + 1
     if window_len - max_letter_freq > k:
       start_c = str[window_start]
-      freq[end_c] -= 1
+      freq[start_c] -= 1
       window_start += 1
     res = max(res, window_len)
   return res
+  
+from collections import Counter
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        hash_map = Counter()
+        start, max_repeating_count = 0, 0
+        for end, end_c in enumerate(s):
+            hash_map[end_c] += 1
+            
+            max_repeating_count = max(max_repeating_count, hash_map[end_c])
+            
+            if end - start + 1 - max_repeating_count > k:
+                hash_map[s[start]] -= 1
+                start += 1
+            
+        return end - start + 1
 
 ```
 

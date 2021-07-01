@@ -6,6 +6,7 @@
       {
         "id": "1953bdbd25d4f77c",
         "type": "leaf",
+        "dimension": 24.528985507246375,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,8 +16,21 @@
         }
       },
       {
+        "id": "3421d7cd497e18dc",
+        "type": "leaf",
+        "dimension": 24.528985507246375,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "guess-number-higher-or-lower.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "9f536f0a8c7474cd",
         "type": "leaf",
+        "dimension": 50.94202898550725,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "find-the-duplicate-number.md",
+                "file": "guess-number-higher-or-lower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +119,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9f536f0a8c7474cd",
+  "active": "3421d7cd497e18dc",
   "lastOpenFiles": [
-    "find-the-duplicate-number.md",
+    "guess-number-higher-or-lower.md",
     "statistic.md",
+    "longest-substring-with-same-letters-after-replacement.md",
+    "longest-subarray-with-ones-after-replacement.md",
+    "fruits-into-baskets.md",
+    "longest-substring-with-k-distinct-characters.md",
+    "find-the-duplicate-number.md",
     "single-number.md",
     "linked-list-palindrome.md",
-    "alphabetical-column-id.md",
-    "smallest-contiguous-subarray-with-a-given-sum.md",
-    "smallest-window-containing-substring.md",
-    "smallest-window-ccontaining-substring.md",
-    "find-all-anagrams-in-a-string.md",
-    "words-concatenation.md"
+    "alphabetical-column-id.md"
   ]
 }
