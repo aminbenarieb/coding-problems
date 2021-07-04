@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1953bdbd25d4f77c",
+        "id": "88f5aca1b42c4f80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "add-two-numbers.md",
+            "file": "longest-palindromic-substring.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7280489a9e66c78a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "add-two-numbers.md",
-            "mode": "source"
           }
         }
       }
@@ -59,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0835c145905035df",
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "add-two-numbers.md",
+                "file": "longest-palindromic-substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1953bdbd25d4f77c",
+  "active": "88f5aca1b42c4f80",
   "lastOpenFiles": [
-    "add-two-numbers.md",
+    "longest-palindromic-substring.md",
     "statistic.md",
     "longest-substring-without-repeating-characters.md",
+    "add-two-numbers.md",
     "valid-palindrome.md",
     "guess-number-higher-or-lower.md",
     "longest-substring-with-same-letters-after-replacement.md",
     "longest-subarray-with-ones-after-replacement.md",
     "fruits-into-baskets.md",
-    "longest-substring-with-k-distinct-characters.md",
-    "find-the-duplicate-number.md"
+    "longest-substring-with-k-distinct-characters.md"
   ]
 }
