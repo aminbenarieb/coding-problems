@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "longest-palindromic-substring.md",
+            "file": "statistic.md",
             "mode": "preview"
           }
         }
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0835c145905035df",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "longest-palindromic-substring.md",
+                "file": "statistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +98,15 @@
   },
   "active": "88f5aca1b42c4f80",
   "lastOpenFiles": [
-    "longest-palindromic-substring.md",
     "statistic.md",
+    "single-number-iii.md",
+    "longest-palindromic-substring.md",
+    "guess-number-higher-or-lower.md",
+    "roman-to-integer.md",
     "longest-substring-without-repeating-characters.md",
     "add-two-numbers.md",
     "valid-palindrome.md",
-    "guess-number-higher-or-lower.md",
     "longest-substring-with-same-letters-after-replacement.md",
-    "longest-subarray-with-ones-after-replacement.md",
-    "fruits-into-baskets.md",
-    "longest-substring-with-k-distinct-characters.md"
+    "longest-subarray-with-ones-after-replacement.md"
   ]
 }

@@ -30,4 +30,4 @@ class Solution:
             
 ```
 
-#asy
+#easy
