@@ -1,7 +1,7 @@
 Longest Substring with K Distinct Characters
 
 ### Solution
-[[dictionary]] [[hash-map]] [[sliding-window]]
+ [[hash-map]] [[sliding-window]]
 ```python
 def longest_substring_with_k_distinct(str1, k):
   chrs_freq = {}
