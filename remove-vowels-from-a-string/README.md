@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/8/2021 at 12:16)](https://leetcode.com/problems/remove-vowels-from-a-string/discuss/1470321/Swift%3A-Runtime%3A-4-ms-faster-than-100.00-of-Swift-Memory-Usage%3A-14.2-MB-less-than-45.45-of-Swif)  
 <h2>1119. Remove Vowels from a String</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, remove the vowels <code>'a'</code>, <code>'e'</code>, <code>'i'</code>, <code>'o'</code>, and <code>'u'</code> from it, and return the new string.</p>
 
 <p>&nbsp;</p>
