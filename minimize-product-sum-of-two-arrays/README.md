@@ -1,3 +1,4 @@
+[Discussion Post (created on 19/8/2021 at 6:29)](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/discuss/1471887/Swift%3A-Time%3A-2080-ms-(50.00)-Space%3A-18.7-MB-(100.00))  
 <h2>1874. Minimize Product Sum of Two Arrays</h2><h3>Medium</h3><hr><div><p>The <b>product sum </b>of two equal-length arrays <code>a</code> and <code>b</code> is equal to the sum of <code>a[i] * b[i]</code> for all <code>0 &lt;= i &lt; a.length</code> (<strong>0-indexed</strong>).</p>
 
 <ul>
