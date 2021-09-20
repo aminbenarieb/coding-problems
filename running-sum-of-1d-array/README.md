@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/8/2021 at 11:3)](https://leetcode.com/problems/running-sum-of-1d-array/discuss/1474416/Swift%3A-Runtime%3A-11-ms-Memory-Usage%3A-14-MB)  
 <h2>1480. Running Sum of 1d Array</h2><h3>Easy</h3><hr><div><p>Given an array <code>nums</code>. We define a running sum of an array as&nbsp;<code>runningSum[i] = sum(nums[0]…nums[i])</code>.</p>
 
 <p>Return the running sum of <code>nums</code>.</p>
